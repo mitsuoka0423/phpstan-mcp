@@ -1,0 +1,15 @@
+{
+    "name": "mitsuoka0423/phpstan-mcp",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mitsuoka0423\\PhpstanMcp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mitsuoka Takahiro"
+        }
+    ],
+    "require": {}
+}
